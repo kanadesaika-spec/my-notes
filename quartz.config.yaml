@@ -9,6 +9,8 @@ configuration:
   locale: ja-JP
   baseUrl: kanadesaika-spec.github.io/my-notes
   ignorePatterns:
+    - "*.canvas"
+    - "*.base"
     - private
     - templates
     - .obsidian
