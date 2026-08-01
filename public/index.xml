@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>奏のメモ</title>
+      <link>https://kanadesaika-spec.github.io/my-notes</link>
+      <description>Last 10 notes on 奏のメモ</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>AI StudioBuild編</title>
+    <link>https://kanadesaika-spec.github.io/my-notes/ai-studiobuild%E7%B7%A8/</link>
+    <guid>https://kanadesaika-spec.github.io/my-notes/ai-studiobuild%E7%B7%A8/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 01 Aug 2026 07:18:31 GMT</pubDate>
+  </item><item>
+    <title>ClaudeCode機能編</title>
+    <link>https://kanadesaika-spec.github.io/my-notes/claudecode%E6%A9%9F%E8%83%BD%E7%B7%A8/</link>
+    <guid>https://kanadesaika-spec.github.io/my-notes/claudecode%E6%A9%9F%E8%83%BD%E7%B7%A8/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 01 Aug 2026 07:18:31 GMT</pubDate>
+  </item><item>
+    <title>Claudeデスクトップ導入編</title>
+    <link>https://kanadesaika-spec.github.io/my-notes/claude%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97%E5%B0%8E%E5%85%A5%E7%B7%A8/</link>
+    <guid>https://kanadesaika-spec.github.io/my-notes/claude%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97%E5%B0%8E%E5%85%A5%E7%B7%A8/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 01 Aug 2026 07:18:31 GMT</pubDate>
+  </item><item>
+    <title>Googleスプレッドシート編</title>
+    <link>https://kanadesaika-spec.github.io/my-notes/google%E3%82%B9%E3%83%97%E3%83%AC%E3%83%83%E3%83%89%E3%82%B7%E3%83%BC%E3%83%88%E7%B7%A8/</link>
+    <guid>https://kanadesaika-spec.github.io/my-notes/google%E3%82%B9%E3%83%97%E3%83%AC%E3%83%83%E3%83%89%E3%82%B7%E3%83%BC%E3%83%88%E7%B7%A8/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 01 Aug 2026 07:18:31 GMT</pubDate>
+  </item><item>
+    <title>Manus編</title>
+    <link>https://kanadesaika-spec.github.io/my-notes/manus%E7%B7%A8/</link>
+    <guid>https://kanadesaika-spec.github.io/my-notes/manus%E7%B7%A8/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 01 Aug 2026 07:18:31 GMT</pubDate>
+  </item><item>
+    <title>NotebookLM編</title>
+    <link>https://kanadesaika-spec.github.io/my-notes/notebooklm%E7%B7%A8/</link>
+    <guid>https://kanadesaika-spec.github.io/my-notes/notebooklm%E7%B7%A8/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 01 Aug 2026 07:18:31 GMT</pubDate>
+  </item><item>
+    <title>NotionDB編</title>
+    <link>https://kanadesaika-spec.github.io/my-notes/notiondb%E7%B7%A8/</link>
+    <guid>https://kanadesaika-spec.github.io/my-notes/notiondb%E7%B7%A8/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 01 Aug 2026 07:18:31 GMT</pubDate>
+  </item><item>
+    <title>Obsidian編</title>
+    <link>https://kanadesaika-spec.github.io/my-notes/obsidian%E7%B7%A8/</link>
+    <guid>https://kanadesaika-spec.github.io/my-notes/obsidian%E7%B7%A8/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 01 Aug 2026 07:18:31 GMT</pubDate>
+  </item><item>
+    <title>応用実践編</title>
+    <link>https://kanadesaika-spec.github.io/my-notes/%E5%BF%9C%E7%94%A8%E5%AE%9F%E8%B7%B5%E7%B7%A8/</link>
+    <guid>https://kanadesaika-spec.github.io/my-notes/%E5%BF%9C%E7%94%A8%E5%AE%9F%E8%B7%B5%E7%B7%A8/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 01 Aug 2026 07:18:31 GMT</pubDate>
+  </item><item>
+    <title>起業ナレッジ</title>
+    <link>https://kanadesaika-spec.github.io/my-notes/%E8%B5%B7%E6%A5%AD%E3%83%8A%E3%83%AC%E3%83%83%E3%82%B8/</link>
+    <guid>https://kanadesaika-spec.github.io/my-notes/%E8%B5%B7%E6%A5%AD%E3%83%8A%E3%83%AC%E3%83%83%E3%82%B8/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 01 Aug 2026 07:18:31 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>

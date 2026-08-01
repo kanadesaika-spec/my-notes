@@ -1,7 +1,6 @@
 .DS_Store
 .gitignore
 node_modules
-public
 prof
 tsconfig.tsbuildinfo
 .obsidian
@@ -12,5 +11,5 @@ replit.nix
 .quartz/
 quartz/cli/tui/dist/
 
-# 起業ナレッジ（個人情報を含むため公開リポジトリには入れない。公開方法を検討中）
-content/起業ナレッジ/
+# 起業ナレッジの「元ファイル」は公開リポジトリに置かない（除外は .git/info/exclude に記載）。
+# サイトは手元でビルドして public/（暗号化済みの完成版）だけをpushする方式。

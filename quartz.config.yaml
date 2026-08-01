@@ -16,6 +16,9 @@ configuration:
     - .obsidian
     # 個人のお金の話は公開サイトに出さない（Obsidian側には残る）
     - "**/05_お金・法務・手続き/**"
+    # 生HTML（バーチャルオフィス・プロトタイプ）はそのままコピーされ、
+    # frontmatterのパスワードをかけられない。中に3人の本業やMBTIが平文で入るため公開しない。
+    - "**/起業ナレッジ/**/*.html"
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
